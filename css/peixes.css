@@ -1,0 +1,27 @@
+.main .fish {
+    margin-left: 30px;
+}
+.produtos .pp1 {
+    background-image: url(../images/castelo.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pp2 {
+    background-image: url(../images/peneira.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pp3{
+    background-image: url(../images/aquario3.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pp4{
+    background-image: url(../images/comida.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pp5{
+    background-image: url(../images/co2.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pp6{
+    background-image: url(../images/criadeira.jpg);
+    background-repeat: no-repeat;
+}

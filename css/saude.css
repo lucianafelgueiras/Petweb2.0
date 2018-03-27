@@ -1,0 +1,28 @@
+.campoSaude {
+    width: 980px;
+    height:700px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 1px 2px 2px #86592d; 
+  }
+
+.main .campoSaude img {
+    width: 330px;
+    height: 290px;
+    margin-top: 10px;
+   text-align: center;     
+}
+
+.main .campoSaude h2, h3 {
+    font-size: 18px;
+    text-align:justify;
+    color:#996633;
+}
+
+.main .campoSaude p {
+    font-size: 16px;
+    text-align: justify;
+    color:#996633;
+}

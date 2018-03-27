@@ -1,0 +1,28 @@
+.main .dog {
+    margin-left: 30px;
+}
+
+.produtos .pc1 {
+    background-image: url(../images/camaPet.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pc2 {
+    background-image: url(../images/carrinhoPet.jpg);
+    background-repeat: no-repeat;
+}
+ .produtos .pc3{
+    background-image: url(../images/perfumariaPet.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pc4{
+    background-image: url(../images/tigela.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pc5{
+    background-image: url(../images/casa.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pc6{
+    background-image: url(../images/roupa.jpg);
+    background-repeat: no-repeat;
+}

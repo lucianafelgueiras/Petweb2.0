@@ -1,0 +1,27 @@
+.formAgenda {
+    padding-left: 30px;
+    margin-right: 50px;
+    border-radius: 10px;
+    
+}
+
+.formAgenda input {
+    width: 320px;
+    height: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.butFormAgenda{
+    width:100px;
+    height: 35px;
+    font-size: 16px;
+    color:#86592d;
+    background-color: #dfbf9f;
+    margin-top: 15px;
+} 
+
+.butFormAgenda select{
+    font-size: 14px;
+}

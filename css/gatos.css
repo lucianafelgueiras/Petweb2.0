@@ -1,0 +1,28 @@
+.main .cat {
+    margin-left: 30px;
+}
+.produtos .pg1 {
+    background-image: url(../images/redeCat.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pg2 {
+    background-image: url(../images/puleiro.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pg3{
+    background-image: url(../images/transporte.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pg4{
+    background-image: url(../images/toca.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pg5{
+    background-image: url(../images/coleiraCat.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pg6{
+    background-image: url(../images/bebedouro.jpg);
+    background-repeat: no-repeat;
+}
+

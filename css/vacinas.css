@@ -1,0 +1,26 @@
+.tabelaVacinas {
+    width: 400px;
+    height: 350px;
+    position: relative;
+    margin-top: 40px;
+    background-color:#fff;
+    padding: 30px;
+    margin: 30px;
+    margin-left: -50px;
+    font-family:'Arial', sans-serif;
+    font-size: 20px;
+    box-shadow: 1px 2px 2px #ac7339;
+}
+
+.tabelaVacinas ul{
+    list-style: none;
+    text-align: center;
+ 
+}
+
+.tabelaVacinas h3{
+    text-align: center;
+    font-size: 22px;
+}
+
+

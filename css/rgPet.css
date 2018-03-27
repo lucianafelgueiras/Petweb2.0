@@ -1,0 +1,29 @@
+.main .rgPet {
+    width:450px;
+    height: 530px;
+    margin: 20px 40px auto 40px;
+}
+
+.main input{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+.formAgenda {
+    margin-left:40px;
+}
+
+.formAgenda h2{
+    text-align: center;
+    font-size: 22px;
+    color:#000;
+}
+
+.formAgenda input checkbox {
+    width: 20px;
+    text-align: left;
+    
+}
+
+

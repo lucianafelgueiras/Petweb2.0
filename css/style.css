@@ -1,0 +1,256 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    width:1280px;
+    height:768px;
+    margin: 0 auto;
+}
+
+.container{
+    font-family:'Verdana',sans-serif;
+    
+}
+
+/* cabecalho */
+
+.cabecalho{
+    width: 1280px;
+    height: 110px;
+    background-color: #fff;
+    flex-direction: row;
+    box-shadow: 1px 2px 2px #996633; 
+
+ }
+
+.cabecalho img {
+    width:150px;
+    height:auto;
+    position: absolute;
+    top:0px;
+    margin-left: 20px;
+    
+}
+
+.textocab {
+    position: relative;
+    top:30px;
+}
+
+.textocab h2 {
+    font-size: 24px;
+}
+
+.textocab h2, .textocab h3  {
+    text-align: center;
+    color:#86592d;
+}
+
+.butLogin {
+    width: 100px;
+    height: 35px;
+    background-color: #86592d;
+    color: #fff;
+}
+
+.entrar a .butLogin {
+ display:block;
+ position: relative;
+ top: 18px;
+ float:right;
+ margin-right: 30px;
+}
+
+
+
+/* Principal menu*/
+
+.main {
+    width:1280px;
+    height:750px;
+    padding-top: 30px;
+    padding-right: 5px;
+    margin:0 auto 30px auto;
+    background-color:#dfbf9f; 
+    box-shadow: 1px 2px 1px #734d26;
+    display:flex;
+}
+
+
+/* Divs animais */
+
+.main div.dog, div.cat, div.rato, div.fish, div.label {
+    width: 290px;
+    height:435px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 1px 1px #996633;
+}
+
+.main div.dog:hover, div.cat:hover, div.rato:hover, div.fish:hover{
+    box-shadow: 2px 4px 2px 2px #734d26;
+}
+
+
+.main div.dog {
+    background-image:url(../images/cao01.jpg);
+    background-repeat: no-repeat;
+    margin-left: 20px;
+}
+
+.main div.cat {
+    background-image:url(../images/cat2.jpg);
+    background-repeat: no-repeat;
+}
+
+.main div.rato {
+    background-image: url(../images/porquinho.jpg);
+    background-repeat: no-repeat;
+}
+
+.main div.fish {
+    background-image: url(../images/peixePalhaco.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.main div.label {
+    width: 290px;
+    height: 50px;
+    background-color: #fff;
+    box-shadow: 1px 2px #996633;
+    position:relative;
+    top:367px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 17px;
+}
+
+.main a{
+    text-decoration: none;
+    color:#000;
+}
+
+/* Redes Sociais*/
+
+.redesSociais{
+    width:500px;
+    height:60px;
+    position:relative;
+    top:450px;
+    left: -1000px;
+    display:flex; 
+}
+
+.redesSociais img {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+
+/*section publiHome*/
+
+.publiHome {
+    width:1280px;
+    height:200px;
+    position: relative;
+    top:550px;
+    margin-top: 10px;
+    background-color: #fff;
+    left: -1680px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: row;
+    margin-left:130px;
+    padding-right:30px;
+    padding-left: 30px;
+  }
+
+.publiHome img{
+    width:180px;
+    height: 150px;
+    margin-top: 27px;
+  
+}
+
+.publiHome .txtPubli h2{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color:#000;
+
+}
+
+.publiHome .txtPubli p {
+    width:400px;
+    height: 200px;
+    font-size: 16px !important;
+    text-align: justify;
+    color:#000;
+}
+
+/* Conteudo */
+
+.conteudo {
+    display:block;
+    width: 490px;
+    position: relative;
+    top:-65px;
+}
+
+.conteudo .botao {
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin: 20px;
+    background-color: #f2e6d9;
+    box-shadow: 1px 2px #ab753b;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+}
+.botao:hover {
+    background-color: #bf8040;
+    color: #fff;
+    font-size: 27px;
+}
+
+
+
+/*Produtos*/
+
+
+.produtos {
+    display: block;
+    width: 400px;
+    padding-top: 30PX;
+    margin: 0 auto;
+}
+.produtos .diversos {
+    width: 130px;
+    height: 130px;
+    float:left;
+    margin:5px;
+    box-shadow: 1px 2px #ab753b;
+    
+}
+
+/* rodape */
+
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    background-color: #f2e6d9;
+    line-height: 40px;
+    margin-top: 7px;
+    box-shadow: 1px 2px #dfbf9f;
+}
+
+footer small {
+    font-size: 10px;
+    text-align: center;
+}

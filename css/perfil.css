@@ -1,0 +1,51 @@
+.petPerfil img{
+    margin-left:80px;
+    margin-top:30px;
+    
+}
+
+.conteudo {
+    margin-left:80px;
+    margin-top:80px;
+}
+
+.petPerfil img{
+    width: 420px !important;
+    height: 420px !important;
+}
+
+
+/*   Agendamento  */
+
+.formAgenda {
+    width: 550px;
+    height:500px;
+    background-color: #ac7339;
+    color:#fff;
+    padding: 15px;
+    margin: 20px;
+    font-size: 16px;
+}
+
+.formAgenda h2 {
+    color: #fff;
+}
+
+.formAgenda input {
+    margin-bottom: 5px;
+}
+
+.publiPerfil {
+    width: 800px;
+    height: 250px;
+    display: block;
+    position: relative;
+    top:50px;
+    
+}
+.publiPerfil img{
+    width: 150px;
+    height: 130px;
+    margin: 5px;
+    border-radius: 6px;
+}

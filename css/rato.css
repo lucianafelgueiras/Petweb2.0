@@ -1,0 +1,28 @@
+.main .rato {
+    margin-left: 30px;
+}
+
+.produtos .pr1 {
+    background-image: url(../images/gaiola.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pr2 {
+    background-image: url(../images/camaRamster.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pr3{
+    background-image: url(../images/Comedouro.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pr4{
+    background-image: url(../images/bolaRato.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pr5{
+    background-image: url(../images/tunel.jpg);
+    background-repeat: no-repeat;
+}
+.produtos .pr6{
+    background-image: url(../images/playground.jpg);
+    background-repeat: no-repeat;
+}
